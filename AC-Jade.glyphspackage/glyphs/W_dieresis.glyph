@@ -1,0 +1,21 @@
+{
+glyphname = Wdieresis;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (240,5);
+ref = dieresiscomb.case;
+}
+);
+width = 859;
+}
+);
+unicode = 7812;
+}

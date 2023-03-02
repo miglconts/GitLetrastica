@@ -1,0 +1,17 @@
+{
+color = (99,255,209,255);
+glyphname = arrowleft.alt2;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (750,0);
+ref = arrowright.alt2;
+scale = (-1,1);
+}
+);
+width = 750;
+}
+);
+}

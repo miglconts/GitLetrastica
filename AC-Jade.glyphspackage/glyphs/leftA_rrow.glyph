@@ -1,0 +1,18 @@
+{
+color = (24,168,171,255);
+glyphname = leftArrow;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (614,0);
+ref = rightArrow;
+scale = (-1,1);
+}
+);
+width = 614;
+}
+);
+unicode = 8592;
+}

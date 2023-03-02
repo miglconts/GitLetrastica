@@ -1,0 +1,19 @@
+{
+glyphname = ograve;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (82,0);
+ref = grave;
+}
+);
+width = 513;
+}
+);
+unicode = 242;
+}

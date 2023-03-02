@@ -1,0 +1,21 @@
+{
+glyphname = Wgrave;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (304,-1);
+ref = gravecomb.case;
+}
+);
+width = 859;
+}
+);
+unicode = 7808;
+}

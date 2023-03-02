@@ -1,0 +1,21 @@
+{
+glyphname = zdotaccent;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+ref = z;
+},
+{
+alignment = -1;
+pos = (129,0);
+ref = dotaccent;
+}
+);
+width = 440;
+}
+);
+unicode = 380;
+}

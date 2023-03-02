@@ -1,0 +1,23 @@
+{
+glyphname = ring;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (154,510);
+}
+);
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (30,0);
+ref = ringcomb;
+}
+);
+width = 308;
+}
+);
+unicode = 730;
+}

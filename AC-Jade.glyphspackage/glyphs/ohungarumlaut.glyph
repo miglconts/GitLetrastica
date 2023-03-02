@@ -1,0 +1,21 @@
+{
+glyphname = ohungarumlaut;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (160,0);
+ref = hungarumlaut;
+}
+);
+width = 513;
+}
+);
+unicode = 337;
+}

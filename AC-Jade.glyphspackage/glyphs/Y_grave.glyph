@@ -1,0 +1,21 @@
+{
+glyphname = Ygrave;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+alignment = -1;
+pos = (85,-1);
+ref = gravecomb.case;
+}
+);
+width = 508;
+}
+);
+unicode = 7922;
+}

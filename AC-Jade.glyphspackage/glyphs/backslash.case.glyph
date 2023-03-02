@@ -1,0 +1,18 @@
+{
+glyphname = backslash.case;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (0,60);
+ref = backslash;
+}
+);
+width = 340;
+}
+);
+metricLeft = backslash;
+metricRight = backslash;
+}

@@ -1,0 +1,36 @@
+{
+color = (38,219,207,255);
+glyphname = dotaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (72,510);
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(90,632,o),
+(138,639,o),
+(138,687,cs),
+(138,716,o),
+(126,765,o),
+(81,765,cs),
+(55,765,o),
+(5,755,o),
+(5,709,cs),
+(5,676,o),
+(17,632,o),
+(64,632,cs)
+);
+}
+);
+width = 143;
+}
+);
+unicode = 775;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = Ycircumflex;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+alignment = -1;
+pos = (76,0);
+ref = circumflexcomb.case;
+}
+);
+width = 508;
+}
+);
+unicode = 374;
+}

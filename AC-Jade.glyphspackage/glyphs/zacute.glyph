@@ -1,0 +1,21 @@
+{
+glyphname = zacute;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+ref = z;
+},
+{
+alignment = -1;
+pos = (121,0);
+ref = acute;
+}
+);
+width = 440;
+}
+);
+unicode = 378;
+}

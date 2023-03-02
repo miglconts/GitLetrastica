@@ -1,0 +1,19 @@
+{
+glyphname = agrave;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (84,0);
+ref = grave;
+}
+);
+width = 532;
+}
+);
+unicode = 224;
+}

@@ -1,0 +1,18 @@
+{
+glyphname = parenleft.case;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (0,60);
+ref = parenleft;
+}
+);
+width = 334;
+}
+);
+metricLeft = parenleft;
+metricRight = parenleft;
+}

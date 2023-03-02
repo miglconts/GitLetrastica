@@ -1,0 +1,19 @@
+{
+glyphname = wgrave;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (207,0);
+ref = grave;
+}
+);
+width = 762;
+}
+);
+unicode = 7809;
+}

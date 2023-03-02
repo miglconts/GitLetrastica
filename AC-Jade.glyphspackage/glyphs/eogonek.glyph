@@ -1,0 +1,21 @@
+{
+glyphname = eogonek;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (35,40);
+ref = ogonek;
+}
+);
+width = 491;
+}
+);
+unicode = 281;
+}

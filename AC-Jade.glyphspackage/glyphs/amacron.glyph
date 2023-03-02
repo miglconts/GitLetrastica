@@ -1,0 +1,19 @@
+{
+glyphname = amacron;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (115,0);
+ref = macron;
+}
+);
+width = 532;
+}
+);
+unicode = 257;
+}

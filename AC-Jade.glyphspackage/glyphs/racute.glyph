@@ -1,0 +1,21 @@
+{
+glyphname = racute;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+ref = r;
+},
+{
+alignment = -1;
+pos = (103,0);
+ref = acute;
+}
+);
+width = 416;
+}
+);
+unicode = 341;
+}

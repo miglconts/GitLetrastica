@@ -1,0 +1,17 @@
+{
+color = (99,255,209,255);
+glyphname = quotedblbase;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (50,-680);
+ref = quotedblright;
+}
+);
+width = 400;
+}
+);
+unicode = 8222;
+}

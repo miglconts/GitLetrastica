@@ -1,0 +1,18 @@
+{
+color = (24,168,171,255);
+glyphname = downArrow;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+angle = 180;
+pos = (613,689);
+ref = upArrow;
+}
+);
+width = 613;
+}
+);
+unicode = 8595;
+}

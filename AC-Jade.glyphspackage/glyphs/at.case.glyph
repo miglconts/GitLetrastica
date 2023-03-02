@@ -1,0 +1,18 @@
+{
+glyphname = at.case;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (0,60);
+ref = at;
+}
+);
+width = 850;
+}
+);
+metricLeft = at;
+metricRight = at;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Ohungarumlaut;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (311,-1);
+ref = hungarumlautcomb.case;
+}
+);
+width = 730;
+}
+);
+unicode = 336;
+}

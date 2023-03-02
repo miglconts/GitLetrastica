@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = guilsinglleft;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (311,0);
+ref = guilsinglright;
+scale = (-1,1);
+}
+);
+width = 311;
+}
+);
+unicode = 8249;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Edotaccent;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (198,189);
+ref = dotaccentcomb;
+}
+);
+width = 485;
+}
+);
+unicode = 278;
+}

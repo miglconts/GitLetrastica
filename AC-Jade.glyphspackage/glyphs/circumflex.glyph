@@ -1,0 +1,23 @@
+{
+glyphname = circumflex;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (184,517);
+}
+);
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (30,0);
+ref = circumflexcomb;
+}
+);
+width = 368;
+}
+);
+unicode = 710;
+}

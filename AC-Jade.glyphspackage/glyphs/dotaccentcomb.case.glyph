@@ -1,0 +1,22 @@
+{
+color = (38,219,207,255);
+glyphname = dotaccentcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (142,580);
+}
+);
+layerId = master01;
+shapes = (
+{
+pos = (30,60);
+ref = dotaccentcomb;
+}
+);
+width = 192;
+}
+);
+}

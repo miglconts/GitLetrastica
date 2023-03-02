@@ -1,0 +1,31 @@
+{
+glyphname = edieresis;
+layers = (
+{
+guides = (
+{
+pos = (145,705);
+userData = {
+UFO.identifier = ceWgL7xVUV;
+};
+}
+);
+layerId = master01;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (60,0);
+ref = dieresiscomb;
+}
+);
+userData = {
+com.typemytype.robofont.guideline.magnetic.ceWgL7xVUV = 5;
+com.typemytype.robofont.guideline.showMeasurements.ceWgL7xVUV = 0;
+};
+width = 491;
+}
+);
+unicode = 235;
+}

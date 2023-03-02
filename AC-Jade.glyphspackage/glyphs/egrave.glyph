@@ -1,0 +1,19 @@
+{
+glyphname = egrave;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (90,0);
+ref = grave;
+}
+);
+width = 491;
+}
+);
+unicode = 232;
+}

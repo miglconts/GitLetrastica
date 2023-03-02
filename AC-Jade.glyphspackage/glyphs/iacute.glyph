@@ -1,0 +1,21 @@
+{
+glyphname = iacute;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (59,0);
+ref = acute;
+}
+);
+width = 280;
+}
+);
+unicode = 237;
+}

@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = braceleft;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (360,0);
+ref = braceright;
+scale = (-1,1);
+}
+);
+width = 370;
+}
+);
+unicode = 123;
+}

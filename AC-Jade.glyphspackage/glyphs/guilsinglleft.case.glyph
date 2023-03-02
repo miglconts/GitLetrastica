@@ -1,0 +1,18 @@
+{
+glyphname = guilsinglleft.case;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (0,60);
+ref = guilsinglleft;
+}
+);
+width = 311;
+}
+);
+metricLeft = guilsinglleft;
+metricRight = guilsinglleft;
+}

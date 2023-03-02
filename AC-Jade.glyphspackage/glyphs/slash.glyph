@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = slash;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(87,-167,l),
+(95,-157,l),
+(367,752,l),
+(363,760,l),
+(289,760,l),
+(282,753,l),
+(10,-157,l),
+(12,-167,l)
+);
+}
+);
+width = 387;
+}
+);
+unicode = 47;
+}

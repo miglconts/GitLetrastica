@@ -1,0 +1,22 @@
+{
+glyphname = oacute;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+pos = (157,0);
+ref = acute;
+}
+);
+width = 513;
+}
+);
+metricLeft = "=o";
+metricRight = "=o";
+unicode = 243;
+}

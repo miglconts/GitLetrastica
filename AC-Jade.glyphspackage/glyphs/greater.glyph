@@ -1,0 +1,18 @@
+{
+color = (99,255,209,255);
+glyphname = greater;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (557,0);
+ref = less;
+scale = (-1,1);
+}
+);
+width = 545;
+}
+);
+unicode = 62;
+}

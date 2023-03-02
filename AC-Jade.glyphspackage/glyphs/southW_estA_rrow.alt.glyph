@@ -1,0 +1,17 @@
+{
+color = (99,255,209,255);
+glyphname = southWestArrow.alt;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+angle = 180;
+pos = (750,700);
+ref = northEastArrow.alt;
+}
+);
+width = 750;
+}
+);
+}

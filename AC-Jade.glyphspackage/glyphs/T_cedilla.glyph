@@ -1,0 +1,20 @@
+{
+color = 0;
+glyphname = Tcedilla;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (204,0);
+ref = commaaccentcomb;
+}
+);
+width = 528;
+}
+);
+unicode = 354;
+}
